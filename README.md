@@ -1,6 +1,6 @@
 # Hola, soy Benjamin Cotrina 👋
 
-**Backend Developer · C# .NET · SQL Server · Data Warehouse · ETL**
+**Backend Developer · C# .NET · SQL Server · Data Warehouse · ETL**  
 📍 Lima, Perú
 
 Desarrollador backend con más de 8 años de experiencia en software. Hoy trabajo en integración de sistemas y datos para un grupo gastronómico: construyo procesos ETL, APIs y automatizaciones que conectan SAP, sistemas de punto de venta y un Data Warehouse que alimenta reportes financieros y operativos.
